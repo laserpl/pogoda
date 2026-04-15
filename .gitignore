@@ -1,8 +1,7 @@
-.env
 .venv
+.env
 .idea
 
-
-/venv
-/idea
-lisbon.xlsx
+/.env
+/.venv
+/.idea
